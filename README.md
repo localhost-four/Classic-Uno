@@ -9,8 +9,6 @@ This is the card game Uno. It is based on the original card game and implements 
 
 ## Contents
 
-- [How to Start the Game](#how-to-start-the-game)
-- [Development](#development)
 - [Credits](#credits)
 
 
